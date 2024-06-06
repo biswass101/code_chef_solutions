@@ -1,0 +1,1 @@
+{"name":"Local: Mario_and_the_Broken_String","url":"d:\\codechef\\Mario_and_the_Broken_String.cpp","tests":[{"id":1693971096150,"input":"4\n6\nabcabc\n6\nabcdef\n4\naaaa\n4\nbaab","output":"yes\nno\nyes\nyes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codechef\\Mario_and_the_Broken_String.cpp","group":"local","local":true}
